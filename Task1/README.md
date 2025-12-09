@@ -22,7 +22,3 @@
 - `push_front()` and `pop_front()` use `insert(0, ...)` and `pop(0)` → O(n)
 - All other operations are O(1)
 - No external dependencies
-
- How to Run
-```bash
-python deque.py
