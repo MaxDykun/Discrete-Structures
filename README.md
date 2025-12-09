@@ -16,7 +16,3 @@ The solutions are organized into separate directories, with each directory corre
 
 
 ---
-
-### **Contact**
-
-For any questions regarding these solutions, please contact me via my GitHub profile.
