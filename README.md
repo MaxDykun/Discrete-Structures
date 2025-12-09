@@ -12,7 +12,7 @@ The solutions are organized into separate directories, with each directory corre
 
 | Directory | Content Description |
 | :--- | :--- |
-| `Task1/` | The program implements a classic **Deque (Double-Ended Queue)** data structure using Python's built-in list. |
+| `Task1` | The program implements a classic **Deque (Double-Ended Queue)** data structure using Python's built-in list. |
 
 
 ---
